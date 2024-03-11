@@ -1,0 +1,54 @@
+_repo: Zweiundzwanzig-Handzeichnungen-von-Goethe-1810_73038
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    - Goethe, Juan Wolfgango
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+    - https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+creator:
+  editor:
+    agent_name: Ruland, Carl
+    aliases:
+    - Ruland, C. (Carl)
+    - Ruland, Karl
+    birthdate: 1834
+    deathdate: 1907
+    gutenberg_agent_id: '56923'
+    url: http://www.gutenberg.org/2009/agents/56923
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Carl_Ruland
+    - https://de.wikipedia.org/wiki/Carl_Ruland
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73038'
+  lccn: g01000949
+language: de
+pgterms:marc904: https://archive.org/details/zweiundzwanzigha00goet/
+pgterms:marc905: 20220914111703ruland
+pgterms:marc906: '1888'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aWeimar :$bVerlag der Goethe-Gesellschaft, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Knowledge -- Art'
+- !lcc 'NC'
+- !lcc 'PT'
+- GITenberg
+title: Zweiundzwanzig Handzeichnungen von Goethe. 1810.
+url: http://www.gutenberg.org/ebooks/73038
