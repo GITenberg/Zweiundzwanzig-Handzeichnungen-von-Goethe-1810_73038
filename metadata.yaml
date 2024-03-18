@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
     - https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+covers:
+- cover_type: archival
+  image_path: 73038-h/images/cover.jpg
 creator:
   editor:
     agent_name: Ruland, Carl
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Carl_Ruland
     - https://de.wikipedia.org/wiki/Carl_Ruland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73038#Zweiundzwanzig-Handzeichnungen-von-Goethe-1810
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
